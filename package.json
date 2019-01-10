@@ -27,7 +27,7 @@
     "@fortawesome/fontawesome-svg-core": "1.2.10",
     "@fortawesome/free-solid-svg-icons": "5.4.2",
     "angular-cli-ghpages": "0.5.3",
-    "core-js": "2.6.1",
+    "core-js": "2.6.2",
     "rxjs": "6.3.3",
     "stylelint": "9.8.0",
     "stylelint-config-standard": "18.2.0",

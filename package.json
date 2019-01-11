@@ -31,7 +31,7 @@
     "rxjs": "6.3.3",
     "stylelint": "9.8.0",
     "stylelint-config-standard": "18.2.0",
-    "zone.js": "0.8.26"
+    "zone.js": "0.8.27"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.12.1",

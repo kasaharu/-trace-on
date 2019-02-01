@@ -29,7 +29,7 @@
     "angular-cli-ghpages": "0.5.3",
     "core-js": "2.6.3",
     "rxjs": "6.3.3",
-    "stylelint": "9.8.0",
+    "stylelint": "9.10.1",
     "stylelint-config-standard": "18.2.0",
     "zone.js": "0.8.29"
   },
